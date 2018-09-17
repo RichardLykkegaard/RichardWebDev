@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>RichardsHome</title>
-    <link href="php-fundamentals.css" rel="stylesheet" />
-    <link href="bootstrap.min.css" rel="stylesheet" />
 
+    <link href="bootstrap.min.css" rel="stylesheet" />
+    <link href="php-fundamentals.css" rel="stylesheet" />
 </head>
 
 <body>
