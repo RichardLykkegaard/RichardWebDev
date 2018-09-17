@@ -24,7 +24,7 @@
                 <img src="richardprof.jpg" alt="Richard Lykkegaard" class="rounded-circle" id="richardprof">
                 <br>
                 <p>Developing &amp; maintaining webbased technologies.</p>
-                <p>If you need a strong and flexible websolution feel free to <a href="contact.php" class="text-dark"><b>contact</b></a> me.</p>
+                <p>If you need a strong and flexible websolution feel free to <a href="http://richardlykkegaard.dk/contact.php" class="text-dark"><b>contact</b></a> me.</p>
                 <p></p>
             </div>
         </div>

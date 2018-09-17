@@ -20,7 +20,7 @@
         <div class="col-lg-12">
             <h1>CSS</h1>
             <br>
-            <p><b>CSS</b>, also knows as  Cascading Style Sheets, is a stylesheet language used for describing the presentation of a document written in a markup langage like <a href="http://localhost/Richard-Home/HTML.php" class ="text-dark"><b>HTML</b></a> </p>
+            <p><b>CSS</b>, also knows as  Cascading Style Sheets, is a stylesheet language used for describing the presentation of a document written in a markup langage like <a href="http://richardlykkegaard.dk/HTML.php" class ="text-dark"><b>HTML</b></a> </p>
             <img src="cssExample.png" alt="Responsive image">
             <blockquote class="blockquote">
             <p>I describe CSS and HTML working together like this; If a webpage is a blank piece of papir then you can see HTML as the brush/pencil and CSS as the different colors that you can apply to the brush. </p>

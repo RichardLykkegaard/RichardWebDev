@@ -21,7 +21,7 @@
             <br>
             <img src="bootstrapLogo.png" alt="Responsive image">
             <blockquote class="blockquote">
-            <p>Bootstrap is a framework made by Twitter to make websites adjustable to any resolution and uses 'mobile-first' technologies. Want a website built with the framework of the future, or maybe you just want your old site converted into bootstrap then feel free to <a href="http://localhost/Richard-Home/contact.php" class ="text-dark"><b>contact</b></a> me.</p>
+            <p>Bootstrap is a framework made by Twitter to make websites adjustable to any resolution and uses 'mobile-first' technologies. Want a website built with the framework of the future, or maybe you just want your old site converted into bootstrap then feel free to <a href="http://richardlykkegaard.dk/contact.php" class ="text-dark"><b>contact</b></a> me.</p>
     
            <p>Boostrap is my go-to solution when it comes to making a website mobile-friendly.</p>
             <footer class="blockquote-footer">Richard L Guldbrandsen</footer>

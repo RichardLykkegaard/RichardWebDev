@@ -25,7 +25,7 @@
             <blockquote class="blockquote">
             <p><b>Hypertext Markup Language(HTML)</b> is the standard markup language for creating web pages and web applications.</p>
             <p>One could say that HTML is the bone-structure of a webpage and it is also possible to create a very simple webpage with the use of just HTML alone.</p>
-            <p>HTML really comes to life when it works together with other technologies such as <a href="http://localhost/Richard-Home/CSS.php" class = "text-dark"><b>CSS</b></a>.</p>
+            <p>HTML really comes to life when it works together with other technologies such as <a href="http://richardlykkegaard.dk/CSS.php" class = "text-dark"><b>CSS</b></a>.</p>
             <footer class="blockquote-footer">Richard L Guldbrandsen</footer>
             </blockquote>
         </div>
