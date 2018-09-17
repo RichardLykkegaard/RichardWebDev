@@ -1,6 +1,4 @@
-<?php
-error_reporting(0);
-?>
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
         <a class="navbar-brand" href="http://richardlykkegaard.dk/home.php">Richard L. Guldbrandsen</a>
@@ -24,9 +22,9 @@ error_reporting(0);
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="http://richardlykkegaard.dk/HTML.php">HTML</a>
-                        <a class="dropdown-item" href="http://richardlykkegaard.dk/home.php">CSS</a>
-                        <a class="dropdown-item" href="http://richardlykkegaard.dk/home.php">PHP</a>
-                        <a class="dropdown-item" href="http://richardlykkegaard.dk/home.php">Bootstrap</a>
+                        <a class="dropdown-item" href="http://richardlykkegaard.dk/CSS.php">CSS</a>
+                        <a class="dropdown-item" href="http://richardlykkegaard.dk/PHP.php">PHP</a>
+                        <a class="dropdown-item" href="http://richardlykkegaard.dk/bootstrap.php">Bootstrap</a>
                     </div>
                 </li>
             </ul>
