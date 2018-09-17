@@ -13,7 +13,7 @@
   <body>
 <?php
 
-include('Navbar.php');
+include('navbar.php');
 ?>
 <div class="container">
     <div class="row">
