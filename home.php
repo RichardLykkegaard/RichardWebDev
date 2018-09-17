@@ -24,8 +24,7 @@
                 <br>
                 <img src="richardprof.jpg" alt="Richard Lykkegaard" class="rounded-circle" id="richardprof">
                 <br>
-                <p>Here you can follow my work as a webdev.</p>
-                <p>This is my personal webpage where I will be posting my progress as a webdeveloper.</p>
+                <p>Developing &amp; maintaining webbased technologies.</p>
                 <p>If you need a strong and flexible websolution feel free to <a href="contact.php" class="text-dark"><b>contact</b></a> me.</p>
                 <p></p>
             </div>
