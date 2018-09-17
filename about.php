@@ -1,10 +1,4 @@
-<?php
 
-//define("AUTH_REQUIRED", true);
-
- require_once('config.php');
-
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
