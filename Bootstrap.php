@@ -14,7 +14,7 @@
  include('navbar.php');
 
 ?>
-<div class="container">
+<div class="container d-flex align-content-center flex-wrap">
     <div class="row">
         <div class="col-lg-12">
             <h1>Bootstrap</h1>
